@@ -146,7 +146,7 @@
 int main()
 {
 	char str[] = "almost every programmer should konw memset";
-	memset(str, '@', 6);
+	memset(str, '@', 5);
 	puts(str);
 
 	return 0;
